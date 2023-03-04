@@ -1,0 +1,35 @@
+*{
+    /* border: 2px solid red; */
+}
+.card-1 {
+    background-color: rgba(232, 43, 137, 0.066);
+}
+.card-1 .card-2{
+    height: 450px;
+}
+
+.btn-close {
+    font-size: 1.5rem;
+    background-color: #EB5757;
+    border-radius: 50%;
+    position: absolute;
+    right: -16px;
+    top: -16px;
+    z-index: 1;
+}
+.card-image{
+    height: 200px;
+}
+.modal-card-image{
+    height: 290px;
+}
+.card-2{
+    position: relative;
+}
+.accuracy{
+    position: absolute;
+    background-color: #EB5757;
+    right: 20px;
+    top: 5px;
+    z-index: 1;
+}
